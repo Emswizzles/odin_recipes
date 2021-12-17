@@ -1,2 +1,4 @@
 # odin_recipes
-Recipie project for Odin tutorial
+Recipe project for Odin tutorial
+
+Creating a small website to show off basic HTML skills
